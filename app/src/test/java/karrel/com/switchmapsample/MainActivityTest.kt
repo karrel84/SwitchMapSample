@@ -1,6 +1,7 @@
 package karrel.com.switchmapsample
 
 import io.reactivex.Observable
+import karrel.com.switchmapsample.etc.GoogleImageScrapper
 import org.junit.Test
 import java.util.concurrent.TimeUnit
 

@@ -1,4 +1,4 @@
-package karrel.com.switchmapsample
+package karrel.com.switchmapsample.etc
 
 import io.reactivex.Observable
 import io.reactivex.schedulers.Schedulers

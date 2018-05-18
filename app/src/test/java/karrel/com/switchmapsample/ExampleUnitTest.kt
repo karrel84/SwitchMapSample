@@ -2,9 +2,7 @@ package karrel.com.switchmapsample
 
 import io.reactivex.Observable
 import io.reactivex.subjects.PublishSubject
-import junit.framework.TestCase
-import org.jsoup.Jsoup
-import org.jsoup.nodes.Document
+import karrel.com.switchmapsample.etc.CommonUtils
 import org.junit.Test
 import java.util.concurrent.TimeUnit
 

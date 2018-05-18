@@ -1,4 +1,4 @@
-package karrel.com.switchmapsample;
+package karrel.com.switchmapsample.etc;
 
 import java.io.IOException;
 import java.net.InetAddress;
